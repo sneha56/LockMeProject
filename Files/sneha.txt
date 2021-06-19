@@ -1,0 +1,7 @@
+siteName:-facebook,userName:-sneha87,Password:-sneha123@
+siteName:-Instagram,userName:-sneha878,Password:-sneha12@
+siteName:-twitter,userName:-sneha123,Password:-123456
+siteName:-google,userName:-sneha1,Password:-12345
+siteName:-yahoo,userName:-sneh,Password:-123@fb
+siteName:-rediff,userName:-snehas,Password:-123
+siteName:-windows,userName:-sneha@123,Password:-1234tg
